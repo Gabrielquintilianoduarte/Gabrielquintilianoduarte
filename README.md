@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ☯
 
-<!--
-**Gabrielquintilianoduarte/Gabrielquintilianoduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e gabriel quintiliano duarte
 
-Here are some ideas to get you started:
+- Estou estudando na [ALURA](https//www.alura.com.br)
+- Estou me desenvolvendo na linguagem java script
+- Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# você pode entrar em contato comigo
+
+gabrielquintilianoduarteal.educacao.sp.gov.br
+
+@gabrielquintilianoduarte
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21lYnY3NmF4M3NwZXowdG9mdGNiM3FtcG1vanQ3Mm12c2kzNXVtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YT51r1aYHUYaQ/giphy.webp)
+
+
+
